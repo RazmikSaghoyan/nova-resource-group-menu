@@ -14,7 +14,7 @@ Give large resource groups their own menu pages with sub-groups.
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require saintsystems/nova-resource-group-menu
+composer require razmiksaghoyan/nova-resource-group-menu
 ```
 
 ## Usage
